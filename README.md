@@ -14,5 +14,5 @@ Advantages of this method:
 1) computation time is approx 4-6 sec for 2848 * 4288 image size.
 2) preprocessing is used only to localise optic disk.
 
-Disadvatges:
+Disadvantges:
 1) the accuracy is satisfactory.
