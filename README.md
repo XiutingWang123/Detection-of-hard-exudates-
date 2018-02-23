@@ -11,7 +11,7 @@ hard exudates and soft exudates. Mainly hard exudates characteristics are presen
 After that using surf feature detection technique the hard exudates are detected.
 
 Advantages of this method:
-1) computation time is approx 4-6 sec for 2848 * 4288 image size.
+1) computation time is approx 10-14 sec for 2848 * 4288 image size.
 2) preprocessing is used only to localise optic disk.
 
 Disadvantges:
